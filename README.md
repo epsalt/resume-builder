@@ -1,15 +1,17 @@
 # Resume Generator
 
-Resume, cover letter, and reference list builder. From markdown to
-`html` and `pdf`.
+Resume, cover letter, and reference list builder. Converts from
+`markdown` content files to `html` and `pdf` using Pandoc and
+PhantomJS.
 
 ## Requirements
 
-- Pandoc
-- PhantomJS
+- `Pandoc`
+- `PhantomJS`
 
 ## Usage
 
 - Edit the markdown files in the `content` directory with your own
   information
-- Build the html and pdf documents by running `resume.sh`
+- Run `resume.sh` to build the `html` and `pdf` output documents into
+  the `out` directory
