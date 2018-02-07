@@ -5,20 +5,19 @@ date: 2017-01-01
 ---
 
 # Daniel S. Marshall
-> Oakville, Ontario  
-> 905 849 0586  
-> daniel.marshall@gmail.com  
+## Your Info {.heading-you .hide}
+Oakville, Ontario\
+905 849 0586\
+daniel.marshall@gmail.com
 
-<div class="divider">
-##  
-</div>
+## {.divider}
 
-<div class="address">
-Attn: Hiring Manager  
-Noodle Box  
-Vancouver, British Columbia  
-</div>
- 
+## {.heading-them}
+Attn: Hiring Manager\
+Noodle Box\
+Vancouver, British Columbia
+
+## Content {.hide} 
 Hello,
 
 At vero eos et accusamus et iusto odio dignissimos ducimus qui

@@ -39,16 +39,20 @@ h2 {
     z-index: 1;
 }
 
+.hide h2 {
+    display: none;
+}
+
 h3 {
     margin-bottom: 0;
 }
 
-blockquote {
+.heading {
     float: right;
     margin: 15px 0 0 0;
 }
 
-blockquote > p {
+.heading > p {
     margin: 5px 0;
     text-align: right;
 }

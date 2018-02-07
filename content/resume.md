@@ -1,19 +1,16 @@
 ---
-pagetitle:  'Resume - Daniel S. Marshall'
+pagetitle: 'Resume - Daniel S. Marshall'
 author: 'Daniel S. Marshall'
 date: 2017-01-01
 ---
 
-<div class="heading">
 # Daniel S. Marshall
-> Oakville, Ontario  
-> 905 849 0586  
-> daniel.marshall@gmail.com  
-</div>
+## Your Info {.heading .hide}
+Oakville, Ontario\
+905 849 0586\
+daniel.marshall@gmail.com\
 
-<div class="divider">
-## Experience
-</div>
+## Experience {.divider}
 
 ### Senior Network Engineer &mdash; PQC International
 #### Jan 2016 - Present
@@ -41,41 +38,30 @@ date: 2017-01-01
 * Consectetur, adipisci velit, sed quia non numquam eius modi tempora
 * Incidunt ut labore et dolore magnam aliquam quaerat voluptatem
 
-<div class="divider">
-## Education
-</div>
+## Education {.divider}
 
 ### B.Sc Biology &mdash; University of Lethbridge
 #### Sep 2005 - Apr 2009
 * Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis
 * Suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
 
-<div class="divider">
-## Technical skills
-</div>
+## Technical skills {.divider}
 
-[//]: # "All three columns need to have the same amount of lines for the borders to render properly"
+## Triple Skills Section {.hide}
+### Dog Skills {.col .left}
+Digging\
+Barking\
+Running\
+Swimming\
 
-<div class="col left">
-### Dog Skills  
-Digging  
-Barking  
-Running  
-Swimming  
-</div>
+### Cat Skills {.col .center}
+Swatting\
+Lounging\
+Hissing\
+Scratching\
 
-<div class="col center">
-### Cat Skills  
-Swatting  
-Lounging  
-Hissing  
-Scratching  
-</div>
-
-<div class="col right">
-### Hamster Skills  
-Spinning  
-Eating pellets  
-Hamstering  
-Smelling  
-</div>
+### Hamster Skills {.col .right}
+Spinning\
+Eating pellets\
+Hamstering\
+Smelling\
