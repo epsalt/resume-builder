@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 mkdir -p out
-cp -a static out/static/
+cp -r -T static out/static/
 
 echo "Generating html"
 pandoc -s ./content/resume.md -H ./templates/header.html -c static/resume.css -o ./out/resume.html
