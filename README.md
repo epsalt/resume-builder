@@ -20,7 +20,7 @@ connection with the depiction of tobacco products.
 ## Requirements
 
 - `Pandoc`
-- `PhantomJS`
+- `PhantomJS` (optional: for `pdf` generation)
 
 ## Usage
 
@@ -29,8 +29,9 @@ connection with the depiction of tobacco products.
 - Replace `sig.png` with a copy of your signature (or comment that
   line out of `letter.md` if you do not want to include a signature
   image at the bottom of your cover letter)
-- Run `resume.sh` to build the `html` and `pdf` output documents to
+- Run `make all` to build the `html` and `pdf` output documents to
   the `out` directory
+- Run `make build` to build just the `html` documents
 
 [resume-html]: https://s3-us-west-2.amazonaws.com/epsalt-resume-builder/resume.html
 [resume-pdf]: https://s3-us-west-2.amazonaws.com/epsalt-resume-builder/resume.pdf
