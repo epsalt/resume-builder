@@ -1,14 +1,14 @@
 ---
-pagetitle: 'Resume - Daniel S. Marshall'
-author: 'Daniel S. Marshall'
-date: 2017-01-01
+pagetitle: 'Resume - Kian McIntosh'
+author: 'Kian McIntosh'
+date: 2020-09-04
 ---
 
-# Daniel S. Marshall
+# Kian McIntosh
 ## Your Info {.heading .hide}
-Oakville, Ontario\
-905 849 0586\
-daniel.marshall@gmail.com\
+621 Elm Street, Windsor CO\
+970 391 1734\
+thefellowcat32@gmail.com\
 
 ## Experience {.divider}
 
